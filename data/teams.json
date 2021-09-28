@@ -1,0 +1,285 @@
+{	
+    "teams":[
+        {
+            "name":"Alavés",
+            "img":"alaves.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 38,	
+                "pg": 9,	
+                "pe": 11,	
+                "pp": 18,	
+                "gf": 36,	
+                "gc": 57
+            } 
+        },
+        {
+            "name":"Athletic",
+            "img":"athletic.png",
+            "position":4,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Atlético",
+            "img":"atletico.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Barcelona",
+            "img":"barcelona.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Cádiz",
+            "img":"cadiz.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Celta",
+            "img":"celta.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Elche",
+            "img":"elche.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Espanyol",
+            "img":"espanyol.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Getafe",
+            "img":"getafe.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Granada",
+            "img":"granada.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+       
+        {
+            "name":"Levante",
+            "img":"levante.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Mallorca",
+            "img":"mallorca.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Osasuna",
+            "img":"osasuna.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Rayo",
+            "img":"rayo.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Betis",
+            "img":"betis.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Real Madrid",
+            "img":"real_madrid.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 38,	
+                "pg": 25,	
+                "pe": 9,	
+                "pp": 4,	
+                "gf": 67,	
+                "gc": 28
+            } 
+        },
+        {
+            "name":"Real Sociedad",
+            "img":"real_sociedad.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Sevilla",
+            "img":"sevilla.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Valencia",
+            "img":"valencia.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        },
+        {
+            "name":"Villarreal",
+            "img":"villarreal.png",
+            "position":0,
+            "matchPoints":{
+                "pt": 0,	
+                "pj": 0,	
+                "pg": 0,	
+                "pe": 0,	
+                "pp": 0,	
+                "gf": 0,	
+                "gc": 0
+            } 
+        }
+    ]
+}

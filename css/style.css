@@ -1,0 +1,106 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:#b6a0a0;
+}
+
+.container{
+    margin:auto;
+    max-width: 60vw;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.header-table th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    border-bottom: solid 4px #cc0000;
+
+}
+
+td{
+    min-width:1%;
+    line-height: 30px; 
+    text-align: center;
+
+}
+td img{
+   width: 24px; 
+   margin-top:5px;
+   min-width:0.5%;
+}
+
+.num,.type-cham-leag,.type-europa-leag,.type-descenso{
+    font-weight: bolder;
+    min-width:0.5%;
+    position: relative;
+}
+.num::before{
+    content: '';
+    display: block;
+    position: absolute;
+    top:2px;
+    left:4px;
+    width: 5px;
+    height:35px;
+    background-color: beige;
+}
+.type-cham-leag:before{
+    content: '';
+    display: block;
+    position: absolute;
+    top:2px;
+    left:4px;
+    width: 5px;
+    height:35px;
+    background-color: #09a751;
+}
+.type-europa-leag:before{
+    content: '';
+    display: block;
+    position: absolute;
+    top:2px;
+    left:4px;
+    width: 5px;
+    height:35px;
+    background-color: #ffc72b;
+}
+.type-descenso:before{
+    content: '';
+    display: block;
+    position: absolute;
+    top:2px;
+    left:4px;
+    width: 5px;
+    height:35px;
+    background-color: #ee4036;
+}
+tbody tr:nth-child(even) {
+    background-color: #f5f5f5;
+}
+
+.total-title{
+    text-transform: uppercase;
+    border-bottom:solid 1px #b6a0a0;
+    text-align: center;
+    font:bolder 16px Arial;
+    padding: 12px 0 12px 0; 
+}
+.team{
+    text-align: left;
+}
+
+.filter-container{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+.filter-container .order{
+    font-weight:bold;
+}
